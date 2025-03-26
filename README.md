@@ -1,3 +1,5 @@
+# Note: This project is based on UC Berkeley's CS188 course materials. The included support files (`mdp.py`, `util.py`, `learningAgents.py`, etc.) are provided solely to demonstrate my original implementations in `valueIterationAgents.py`, `qlearningAgents.py`, and `analysis.py`. This repository is private and intended for job application review only.
+
 # Reinforcement Learning Agents for Gridworld and Pacman
 
 This project implements reinforcement learning agents to solve Markov Decision Processes (MDPs) using value iteration and Q-learning. The agents were applied to environments such as Gridworld, Crawler, and Pacman as part of a class project focused on understanding and applying core reinforcement learning concepts.
