@@ -8,6 +8,9 @@ import copy
 import weakref
 from collections import deque, namedtuple
 
+import matplotlib.pyplot as plt
+import numpy as np
+
 use_graphics = True
 
 def maybe_sleep_and_close(seconds):
