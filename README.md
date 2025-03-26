@@ -19,7 +19,7 @@ The project also includes parameter tuning for agent behavior, epsilon-greedy ac
 ## Files Implemented
 
 The files I used will show "YOUR CODE HERE" above the areas I edited.
-The filed I was responsible for were:
+The files I was responsible for were:
 
 - `valueIterationAgents.py`: Value Iteration algorithm and related methods
 - `qlearningAgents.py`: Q-learning algorithm, epsilon-greedy action selection, and approximate Q-learning structure
